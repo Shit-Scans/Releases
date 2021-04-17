@@ -1,1 +1,1 @@
-![folder] Releases
+![folder] Series
