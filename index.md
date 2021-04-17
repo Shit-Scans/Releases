@@ -1,3 +1,3 @@
 <HTML>
-  <H1> Shit Scans Temporary Website Test v2 </H1>
-  <p><a href="Series/Jitsu/Chapter 31/ch31.html"> Click here to read the latest chapter of Jitsu wa Ore, Saikyou Deshita?</a>
+  <H1> Shit Scans Temporary Website Test v4 </H1>
+  <p><a href="Jitsu wa Ore, Saikyou Deshita/Chapter 31/CH31.html"> <img src="Jitsu" alt="Jitsu wa Ore, Saikyou Deshita?"></a>
