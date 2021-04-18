@@ -20,3 +20,7 @@ img{
   max-height: 100vh;
   height: auto;
 }
+@media only screen and (max-width: 767px)  {
+.logged-in .protected-content { display: block !important; }
+.protected-content { display: none !important; }
+}
