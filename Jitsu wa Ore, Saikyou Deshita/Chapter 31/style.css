@@ -1,9 +1,11 @@
 h1{
 padding-bottom: 0.3em;
 font-size: 1.5em;
-border-bottom: 1px solid #ffffff;
-margin-left:342.9px;
-margin-right:342.9px;
+border-bottom:1px solid #ffffff;
+width:35%;
+display:block;
+margin:0 auto;
+
 }
 body{
 margin-top:20px;
