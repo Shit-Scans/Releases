@@ -15,7 +15,7 @@ body {
   background-color:#252525;
 }
 img {
-  max-width: 100%;
+  max-width: "device-width";
   max-height: 100vh;
   height: auto;
 }
