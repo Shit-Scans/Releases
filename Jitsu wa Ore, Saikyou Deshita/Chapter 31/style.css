@@ -1,3 +1,4 @@
+body{
 margin-top:20px;
 margin-left:0;
 margin-right:0;
@@ -5,8 +6,8 @@ border:8px #252525;
 text-align: center;
 background-color:#252525;
 }
-img {
-    max-width: 100%;
-    max-height: 100vh;
-    height: auto;
+img{
+max-width: 100%;
+max-height: 100vh;
+height: auto;
 }
