@@ -1,6 +1,6 @@
 <HTML>
   <link rel="stylesheet" href="style.css">
-  <H1 style="color: #ffffff;"> Shit Scans Temporary Website Test v4 </H1>
+  <H2 style="color: #ffffff;"> Shit Scans Temporary Website Test v4 </H2>
   <p><a href="Jitsu wa Ore, Saikyou Deshita/Chapter 31/CH31.html">
     <img src="Jitsu.png" alt="Jitsu wa Ore, Saikyou Deshita?" width="216.6" height="308.1">
   </a>
