@@ -10,7 +10,7 @@
   <a href="INSERT THE FILE PATH FOR THE HTML HERE">
     <img src="Shokubutsu.png" alt="Shokubutsu Mahou" width="216.6" height="308.1">
   </a>
-  <a href="INSERT THE FILE PATH FOR THE HTML HERE">
+  <p><a href="INSERT THE FILE PATH FOR THE HTML HERE">
     <img src="Kobayashi.png" alt="Kobayashi-san wa Jimi Dakedo" width="216.6" height="308.1">
   </a>
   <a href="INSERT THE FILE PATH FOR THE HTML HERE">
