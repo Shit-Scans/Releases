@@ -19,3 +19,6 @@
   <a href="INSERT THE FILE PATH FOR THE HTML HERE">
     <img src="Abyss Calling.png" alt="Abyss Calling" width="216.6" height="308.1">
   </a>
+ <a href="Jitsu wa Ore, Saikyou Deshita/Chapter 31/CH31.html">
+    <img src="Abyss Calling.png" alt="Abyss Calling" width="216.6" height="308.1">
+  </a>
