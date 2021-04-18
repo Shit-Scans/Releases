@@ -1,4 +1,4 @@
-h1{
+h1 {
   padding-bottom: 0.3em;
   font-size: 1.5em;
   border-bottom:1px solid #ffffff;
@@ -6,8 +6,7 @@ h1{
   display:block;
   margin:0 auto;
 }
-body{
-  
+body {  
   margin-top:20px;
   margin-left:0;
   margin-right:0;
@@ -15,7 +14,7 @@ body{
   text-align: center;
   background-color:#252525;
 }
-img{
+img {
   max-width: 100%;
   max-height: 100vh;
   height: auto;
